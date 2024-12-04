@@ -1,6 +1,7 @@
-# My Neofetch Configuration
-
 This repository contains my personal configuration for Neofetch, a command-line system information tool written in Bash. Neofetch displays information about your system next to an image, your OS logo, or any ASCII file of your choice.
+
+![Demo Image](demo.png)
+
 
 ## Features
 
