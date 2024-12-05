@@ -21,6 +21,7 @@ This repository contains my personal configuration for Neofetch, a command-line 
 2. Copy the configuration file to your Neofetch config directory:
    ```sh
    cp config.conf ~/.config/neofetch/config.conf
+   cp config_legacy.conf ~/.config/neofetch/config_legacy.conf
    ```
 
 3. Run Neofetch to see the changes:
