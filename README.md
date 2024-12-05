@@ -15,7 +15,7 @@ This repository contains my personal configuration for Neofetch, a command-line 
 1. Clone the repository:
    ```sh
    git clone https://github.com/spaciousejar/neofetch-conf.git
-   cd neofetch-config
+   cd neofetch-conf
    ```
 
 2. Copy the configuration file to your Neofetch config directory:
