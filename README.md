@@ -23,6 +23,11 @@ This repository contains my personal configuration for Neofetch, a command-line 
    cp config.conf ~/.config/neofetch/config.conf
    cp config_legacy.conf ~/.config/neofetch/config_legacy.conf
    ```
+   for mobile
+   ```sh
+   cd android
+   cp config.conf ~/.config/neofetch/config.conf
+   ```
 
 3. Run Neofetch to see the changes:
    ```sh
